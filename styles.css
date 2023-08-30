@@ -1,0 +1,20 @@
+html {
+	background-color:#41B3A3;
+}
+body {
+	font-family:Baskerville, serif;
+}
+h1 {
+	text-align:center;
+	color:white;
+}
+ul {
+	padding:70px;
+	background-color:#E27D60;
+	border:medium solid white;
+}
+.button {
+	background-color:#E8A87C;
+	color:#41B3A3;
+	box-shadow:5px 5px 10px #C38D9E;
+	
