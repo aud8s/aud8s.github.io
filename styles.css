@@ -10,11 +10,10 @@ h1 {
 }
 ul {
 	padding:70px;
-	background-color:#E27D60;
-	border:medium solid white;
+	background-color:white;
+	border:medium solid black;
 }
 .button {
-	background-color:#E8A87C;
 	color:#41B3A3;
 	box-shadow:5px 5px 10px #C38D9E;
 	
